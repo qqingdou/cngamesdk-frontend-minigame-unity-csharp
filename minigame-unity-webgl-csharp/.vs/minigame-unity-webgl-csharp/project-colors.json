@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "72c45ae5-0c2e-feb6-f438-4c26f5a861a1": {
+      "ProjectGuid": "72c45ae5-0c2e-feb6-f438-4c26f5a861a1",
+      "DisplayName": "Mischief.MDV.Editor",
+      "ColorIndex": 0
+    },
+    "27011865-c49c-6ab1-7a5a-95832932bb96": {
+      "ProjectGuid": "27011865-c49c-6ab1-7a5a-95832932bb96",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8958f46b6ca6d6440b590cbfa69e1103, type: 3}
+  m_Name: MiniGameConfig
+  m_EditorClassIdentifier: 
+  ProjectConf:
+    projectName: "\u4E2D\u6E38SDK"
+    Appid: wx669409309bd502b0
+    CDN: https://cngamesdk.51baocuo.com/
+    assetLoadType: 1
+    VideoUrl: 
+    DST: E:/my/projects/cngamesdk-frontend-minigame-unity-csharp/dist
+    StreamCDN: 
+    bundleHashLength: 32
+    bundlePathIdentifier: StreamingAssets;
+    bundleExcludeExtensions: json;
+    AssetsUrl: 
+    MemorySize: 256
+    HideAfterCallMain: 1
+    preloadFiles: 
+    Orientation: 0
+    bgImageSrc: Assets/WX-WASM-SDK/wechat-default/images/background.jpg
+  SDKOptions:
+    UseAudioApi: 0
+    UseFriendRelation: 0
+    UseCompressedTexture: 0
+  CompileOptions:
+    DevelopBuild: 0
+    AutoProfile: 0
+    ScriptOnly: 0
+    profilingFuncs: 0
+    Webgl2: 0
+  CompressTexture:
+    SourceDirs:
+    - Assets
+    QualityList: []
+    FlareDirList: []
+    PVRTCFirstList: []
+    TextureRes: 
+    SpriteRes: 
+    DstDir: 
+    OnlyAstc: 1
+    TooManyFiles: 1
+    halfSize: 0
+  PlayerPrefsKeys: []
