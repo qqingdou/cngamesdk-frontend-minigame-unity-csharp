@@ -1,6 +1,9 @@
 # cngamesdk-frontend-minigame-unity-csharp
 中手游SDK 前端Unity C#版本SDK
 
+### 提示
+- Unity版本：2019
+
 ### 接入文档
 - [微信小游戏Unity C#研发接入-前端文档](https://cngamesdk.51baocuo.com/docs/_book/md/cp/frontend/minigame/minigame_csharp.html)
 
